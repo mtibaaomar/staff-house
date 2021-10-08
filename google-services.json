@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807381292873",
+    "project_id": "staff-house",
+    "storage_bucket": "staff-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807381292873:android:8159b84b929446bd0aac98",
+        "android_client_info": {
+          "package_name": "staffhouse.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807381292873-jeo1tn28o1q6607gve9r1vst05duajui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGtKl0Po45BVo3FreOEEfeCf9nvsbcUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807381292873-jeo1tn28o1q6607gve9r1vst05duajui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
